@@ -1,0 +1,6 @@
+Software which
+
+1) It opens a twitter page . ( Done )
+2 ) It receives all the data sent to the browser.
+3) Save the data in a text file.
+4) Open the text file , parse it and save only tweets.
