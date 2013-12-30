@@ -4,3 +4,24 @@ Software which
 2 ) It receives all the data sent to the browser.
 3) Save the data in a text file.
 4) Open the text file , parse it and save only tweets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOR ME-ONLY
+1) VIRTUAL
+2) LINUX
+3)SCRIPT
