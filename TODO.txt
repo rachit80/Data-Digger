@@ -1,9 +1,16 @@
 Software which
-
+31/12/2013
 1) It opens a twitter page . ( Done )
-2 ) It receives all the data sent to the browser.
-3) Save the data in a text file.
-4) Open the text file , parse it and save only tweets.
+2 ) It receives all the data sent to the browser.-done
+3) Save the data in a text file.-done
+4) Open the text file , parse it and save only tweets.-done
+
+7/1/2014
+5) database-done
+6) program to connect to database, perform search on txt file and count specific words and phrases-done
+
+
+15/1/2014
 
 
 
